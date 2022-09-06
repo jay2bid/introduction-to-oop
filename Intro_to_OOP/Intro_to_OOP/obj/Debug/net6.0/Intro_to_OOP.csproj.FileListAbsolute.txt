@@ -1,0 +1,15 @@
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/bin/Debug/net6.0/Intro_to_OOP
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/bin/Debug/net6.0/Intro_to_OOP.deps.json
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/bin/Debug/net6.0/Intro_to_OOP.runtimeconfig.json
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/bin/Debug/net6.0/Intro_to_OOP.dll
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/bin/Debug/net6.0/Intro_to_OOP.pdb
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/Intro_to_OOP.csproj.AssemblyReference.cache
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/Intro_to_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/Intro_to_OOP.AssemblyInfoInputs.cache
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/Intro_to_OOP.AssemblyInfo.cs
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/Intro_to_OOP.csproj.CoreCompileInputs.cache
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/Intro_to_OOP.dll
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/refint/Intro_to_OOP.dll
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/Intro_to_OOP.pdb
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/Intro_to_OOP.genruntimeconfig.cache
+/Users/jay/Projects/introduction-to-oop/Intro_to_OOP/Intro_to_OOP/obj/Debug/net6.0/ref/Intro_to_OOP.dll
